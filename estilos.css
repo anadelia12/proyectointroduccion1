@@ -4,20 +4,25 @@
 .imagenfondo{
     background-image: url(img/Reconocimiento-facial.jpg);
     background-attachment: fixed;
-     height: 200px;
+     height: 635px;
+     width: 1900px;
 }
  .colorgris{
      background-color: darkslategray;
- }
-.letrasblancas{
-    color: floralwhite;
-}
-.alinear{
-text-align: center;
-}
-.aumentar{
-     em:1.2em;
-}
+     text-align: center;
+     color:white;
+    }
+    .imagen2{
+        background-image: url(img/descarga.jpg);
+        background-attachment: fixed;
+         height: 635px;
+         width: 1900px;
+
+    }
+
+
+
+
 
 .verdecito{
  font-weight:bold;
