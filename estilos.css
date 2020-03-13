@@ -2,7 +2,7 @@
    color: black;
 }
 .imagenfondo{
-    background-image: url(img/Reconocimiento-facial.jpg);
+    background-image: url(img/reconocimiento-facial-biometrico-1-70x300.jpg);
     background-attachment: fixed;
      height: 635px;
      width: 1900px;
@@ -15,8 +15,8 @@
     .imagen2{
         background-image: url(img/descarga.jpg);
         background-attachment: fixed;
-         height: 635px;
-         width: 1900px;
+         height: 500px;
+         width: 1700px;
 
     }
 
@@ -24,9 +24,37 @@
 
 
 
-.verdecito{
- font-weight:bold;
+.verdejustificafo{
+    font-weight:bold;
+    color: greenyellow;
+
 }
-.verdecito{
-    color: green;
+.verde{
+    font-style: italic;
+    color:green;
+}
+
+.justificado{
+    font-weight:bold;
+    
+
+
+}
+.tamañotexto{
+font-size: 1.2em;
+
+
+}
+.azuljustificado{
+    font-weight:bold;
+    color: blue;
+}
+
+.colorazulisquierda{
+    color: blue;
+    font-style: italic;
+    text-align: left;
+
+
+
 }
